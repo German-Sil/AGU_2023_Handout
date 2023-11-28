@@ -8,6 +8,11 @@ Twitter: [@envirogeography](https://twitter.com/envirogeography?lang=en)  <br>
 Website: [german-sil.github.io/gds](german-sil.github.io/gds) <br>
 <br>
 
+# List of References
+[reference_list.docx](https://github.com/German-Sil/AGU_2023_Handout/files/13491945/reference_list.docx)
+
+<br>
+
 # Supplemental Figures
 <br>
 
