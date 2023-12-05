@@ -52,5 +52,7 @@ Fig. S5: Variable importance (scaled 0-1) plot for elevation and spectral variab
 
 # Copy of Poster
 
-[AGU_Poster_Germán_Silva.pdf](https://github.com/German-Sil/AGU_2023_Handout/files/13491988/AGU_Poster_German_Silva.pdf)
+[AGU_Poster_Germán_Silva.pdf](https://github.com/German-Sil/AGU_2023_Handout/files/13572555/AGU_Poster_German_Silva.pdf)
+
+
 
