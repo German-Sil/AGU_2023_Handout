@@ -45,8 +45,6 @@ Pricipal Components were excluded from the final model as they did not improve c
 Fig. S4: Scatterplot of spectrally (including PCs) and elevation predicted soil salinity vs actual values. Dashed line represents 1:1 line. r = 0.81, R^2 = 0.717
 
 <br>
-<br>
-<br>
 
 ![all_si_imp](https://github.com/German-Sil/AGU_2023_Handout/assets/91705562/7eb294e3-546b-49ea-a761-05bbcb7b2d9a)
 Fig. S5: Variable importance (scaled 0-1) plot for elevation and spectral variables (including PCs). 0 = no importance, 1 = most important. Orange line represents increase in node purity, green dashed line represents % increase mean square error. Elevation and mARI are the most important variables for this model's prediction.
